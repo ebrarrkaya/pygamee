@@ -63,4 +63,3 @@ while durum:
     pencere.blit(palet, paletrect)
     pygame.display.update()
 pygame.quit()
-[Palet](https://github.com/ebrarrkaya/pygamee/blob/90bf34efc742056820ab46112d2d6b2a9a3c71d2/palet.png)
