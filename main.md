@@ -10,4 +10,4 @@
 
 [KADRAN5](https://github.com/ebrarrkaya/pygamee/blob/8f6a53e46e10b9531b84897e8ad1008d8e5dbc9f/saat5.png)
 
-not: şunu bitirene kadar iq um düştü :(
+not: şunu bitirene kadar iq um düştü
